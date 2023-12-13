@@ -4,7 +4,10 @@
 
 
 
-<h3>My name is Stefan Dimitrov. I am currently studying Software Engineering in SoftUni!</h2>
+<h3>My name is Stefan Dimitrov. I am currently studying Software Engineering(JavaScript) in SoftUni!</h2>
+
+
+
 
 
 
