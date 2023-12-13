@@ -4,7 +4,7 @@
 
 
 
-<h3>My name is Stefan Dimitrov.I live in Bulgaria and im currently studying Software Engineering in SoftUni!</h2>
+<h3>My name is Stefan Dimitrov. I am currently studying Software Engineering in SoftUni!</h2>
 
 
 
