@@ -1,5 +1,5 @@
 
-<img src="https://github.com/StefanDimitrow/ProfileRepo/blob/main/72uG.gif" width="300 height="400">
+<img src="https://github.com/StefanDimitrow/ProfileRepo/blob/main/72uG.gif" width="300" height="400">
 
 
 
